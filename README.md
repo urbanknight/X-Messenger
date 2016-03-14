@@ -9,4 +9,6 @@ In addition to basic messaging X-Messenger users can send each other unlimited i
 - Android OS 3.0 or above
 - Unlimited internet data plan recommended
 - Tablet devices are not supported
+
+Will be updated soon with the new formated code, at the meanwhile you can find a sample code from the original unupdated and unformated code.
 	
