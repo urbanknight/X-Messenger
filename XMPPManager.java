@@ -153,13 +153,13 @@ public class XMPPManager /*implements PacketListener*/ {
     public static boolean connectionSettingsObsolete;
     //public static String HOST ="192.168.10.101";
     public static String DOMAIN = "@xmessenger";
-    public static String HOST ="188.247.90.132"; //"172.17.1.52";
+    public static String HOST ="0.0.0.0";
     public static String HOSTURL = "http://" + HOST + "/";
     public static int PORT = 5222;
     public static int SPORT = 5223;
     public static String RESOURCE = "android";
     //public static String SERVICE_NAME = "192.168.10.101";
-    public static String SERVECE_NAME = "xmessenger"; //"188.247.90.132"; "xmessenger";
+    public static String SERVECE_NAME = "xmessenger"; 
     public static SecureRandom random = new SecureRandom();
     private static int sReusedConnectionCount = 0;
     private static int sNewConnectionCount = 0;
